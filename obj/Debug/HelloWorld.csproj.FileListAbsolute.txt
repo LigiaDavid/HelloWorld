@@ -1,0 +1,7 @@
+C:\AgileHubCurs\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\AgileHubCurs\HelloWorld\bin\Debug\HelloWorld.exe
+C:\AgileHubCurs\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\AgileHubCurs\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\AgileHubCurs\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\AgileHubCurs\HelloWorld\obj\Debug\HelloWorld.exe
+C:\AgileHubCurs\HelloWorld\obj\Debug\HelloWorld.pdb
